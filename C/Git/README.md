@@ -28,6 +28,8 @@ git ls-tree --name-only repo-name
 Add or remove additional/existing files to/from index:
 ```
 git add "filename"
+```
+```
 git rm "filename"
 ```
 
